@@ -37,7 +37,7 @@
   "homepage": "https://github.com/zecaptus/react-native-md-motion-buttons#readme",
   "peerDependencies": {
     "react": "16.13.1",
-    "react-native": "0.43.*"
+    "react-native": "^0.63.4"
   },
   "devDependencies": {
     "cpx": "^1.5.0"
